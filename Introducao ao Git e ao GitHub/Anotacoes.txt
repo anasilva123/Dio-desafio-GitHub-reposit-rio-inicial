@@ -1,0 +1,4 @@
+link para dowload do git
+link para dowload do markdown
+rever as aulas sobre o Git
+refzer os exercícios para praticar o conhecimento adquirido
